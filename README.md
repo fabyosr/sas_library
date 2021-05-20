@@ -4,7 +4,7 @@ A SAS code repository
 ![title](img/sas_logo.png)
 <br>
 <br>
-## Neste repositório temos algumas dicas de códigos para uso no SAS.
+## Utilizo bastante o SAS no meu dia a dia. Neste repositório compartilho algumas dicas de códigos para uso no nesta poderosa ferramenta.
 <!--- This respository aims to show SAS tips and tricks.
 
 Just paste the code into SAS and run.
@@ -18,7 +18,11 @@ Just paste the code into SAS and run.
 
 * [Como converter uma data no formato DATE9 para o formato YYYYMMDD, utilizando o PROC SQL.](date9_to_yyyymm.sas)
 
+* [Convertendo uma data no padrão YYYYMMDD para o formato DATE9.](yyyymmdd_to_date9.sas)
+
 * [Convertendo a hora atual para o formato HHMMSS, utilizando o DATA STEP.](get_mask_hhmmss.sas)
+
+* [Formatando um datetime para a máscara HHMMSS utilizando PROC FORMAT.](proc_format_pict.sas)
 
 * [Populando o mapa do Brasil com informações, utilizando o PROC GMAP.](generate_brazil_map.sas)
 
@@ -42,8 +46,4 @@ Just paste the code into SAS and run.
 
 * [Enviando uma tabela e um gráfico pelo e-mail.](plotting_chart_save_image_file_send_email_with_table.sas)
 
-* [Formatando um datetime para a máscara HHMMSS utilizando PROC FORMAT.](proc_format_pict.sas)
-
 * [Gerando número aleatórios.](random_range_number.sas)
-
-* [Convertendo uma data no padrão YYYYMMDD para o formato DATE9.](yyyymmdd_to_date9.sas)
