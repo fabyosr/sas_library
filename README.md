@@ -4,7 +4,6 @@ A SAS code repository
 ![title](img/sas_logo.png)
 <br>
 <br>
-<br>
 ## Neste repositório temos algumas dicas de códigos para uso no SAS.
 <!--- This respository aims to show SAS tips and tricks.
 
