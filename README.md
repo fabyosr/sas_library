@@ -4,7 +4,7 @@ A SAS code repository
 ![title](img/sas_logo.png)
 <br>
 <br>
-## Utilizo bastante o SAS no meu dia a dia. Neste repositório compartilho algumas dicas de códigos para uso no nesta poderosa ferramenta.
+## Utilizo bastante o SAS no meu dia a dia. Neste repositório compartilho algumas dicas de códigos para uso nesta poderosa ferramenta.
 <!--- This respository aims to show SAS tips and tricks.
 
 Just paste the code into SAS and run.
